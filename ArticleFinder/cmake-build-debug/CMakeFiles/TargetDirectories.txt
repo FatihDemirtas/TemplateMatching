@@ -1,0 +1,3 @@
+/home/fatihdemirtas/Projects/Others/ArticleFinder/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/fatihdemirtas/Projects/Others/ArticleFinder/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/fatihdemirtas/Projects/Others/ArticleFinder/cmake-build-debug/CMakeFiles/ArticleFinder.dir
